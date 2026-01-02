@@ -9,7 +9,7 @@
 
 **Diller**
 <p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="e"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt=""/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt=""/>
 </p>
@@ -26,4 +26,4 @@
 - 📧 **E-posta:** [metehankayax@gmail.com](mailto:metehankayax@gmail.com)
 - 🎮 **Discord:** extoloji
 
---->
+---
