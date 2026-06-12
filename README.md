@@ -59,9 +59,9 @@ My name is Metehan Kaya and I'm a software developer/IT Student. I'm from Earth,
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/
+[2]: https://github.com/extoloji
+[3]: https://www.linkedin.com/in/metehankayanet/
 
 
 <!-- Resources -->
