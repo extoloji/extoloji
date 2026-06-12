@@ -30,21 +30,18 @@ My name is Metehan Kaya and I'm a software developer/IT Student. I'm from Earth,
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/extoloji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extoloji&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+<p align="center">
+  <!-- Genel İstatistik Kartı -->
+  <img src="https://github-readme-stats.vercel.app/api?username=extoloji&show_icons=true&theme=tokyonight&locale=tr&hide_border=true&card_width=480" alt="GitHub Stats" height="150" />
+  
+  <!-- En Çok Kullanılan Diller Kartı -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extoloji&layout=compact&theme=tokyonight&locale=tr&hide_border=true&langs_count=6&card_width=350" alt="Top Langs" height="150" />
+</p>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+<p align="center">
+  <!-- Streak (Ardışık Kodlama Gün Sayısı) Kartı -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=extoloji&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
 
 <!-- links to social media icons -->
 
