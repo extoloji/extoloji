@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://github.com/extoloji/extoloji/blob/main/readme_header.png "Header")](https://metehankaya.vercel.app/)
+[![Header](https://github.com/extoloji/extoloji/blob/main/readme_header%20(1).png "Header")](https://metehankaya.vercel.app/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
