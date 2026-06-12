@@ -11,13 +11,20 @@ My name is Metehan Kaya and I'm a software developer/IT Student. I'm from Earth,
 ![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ![C#](https://img.shields.io/badge/Code-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
 ![Dart](https://img.shields.io/badge/Code-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Hardware-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/BaaS-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/BaaS-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## &#x270d; Blog & Writing
